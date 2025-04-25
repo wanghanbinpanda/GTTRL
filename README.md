@@ -1,1 +1,1 @@
-# GTTRL
+# GTTRL: General Test-Time Reinforcement Learning
